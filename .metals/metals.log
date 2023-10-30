@@ -2507,3 +2507,5 @@ WARNING: Unmatched cancel notification for request id 607
 2023.10.30 13:54:14 INFO  time: compiled hello-world in 0.42s[0m
 2023.10.30 13:54:24 INFO  compiling hello-world (1 scala source)[0m
 2023.10.30 13:54:24 INFO  time: compiled hello-world in 0.47s[0m
+Oct 30, 2023 1:57:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
