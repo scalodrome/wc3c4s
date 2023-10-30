@@ -1,0 +1,10 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "cSpell.language": "en,ru",
+    "cSpell.words": [
+        "Artes"
+    ],
+    "editor.lineHeight": 27
+}
